@@ -2952,11 +2952,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Web\\Blog.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Web\\Blog.Web.csproj",
       "projectName": "Blog.Web",
-      "projectPath": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Web\\Blog.Web.csproj",
+      "projectPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Web\\Blog.Web.csproj",
       "packagesPath": "C:\\Users\\Ertugrul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Web\\obj\\",
+      "outputPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ertugrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2974,11 +2974,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj": {
-              "projectPath": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj"
+            "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj": {
+              "projectPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj"
             },
-            "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Data\\Blog.Data.csproj": {
-              "projectPath": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Data\\Blog.Data.csproj"
+            "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Data\\Blog.Data.csproj": {
+              "projectPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Data\\Blog.Data.csproj"
             }
           }
         }

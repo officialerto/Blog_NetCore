@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj",
       "projectName": "Blog.Core",
-      "projectPath": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj",
+      "projectPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj",
       "packagesPath": "C:\\Users\\Ertugrul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Core\\obj\\",
+      "outputPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ertugrul\\AppData\\Roaming\\NuGet\\NuGet.Config",

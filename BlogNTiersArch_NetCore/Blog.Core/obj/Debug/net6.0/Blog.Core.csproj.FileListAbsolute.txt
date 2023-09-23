@@ -10,3 +10,15 @@ C:\Users\Ertugrul\source\repos\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0
 C:\Users\Ertugrul\source\repos\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0\refint\Blog.Core.dll
 C:\Users\Ertugrul\source\repos\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0\Blog.Core.pdb
 C:\Users\Ertugrul\source\repos\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0\ref\Blog.Core.dll
+C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\bin\Debug\net6.0\Blog.Core.deps.json
+C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0\Blog.Core.csproj.AssemblyReference.cache
+C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0\Blog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0\Blog.Core.AssemblyInfoInputs.cache
+C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0\Blog.Core.AssemblyInfo.cs
+C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0\Blog.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0\Blog.Core.dll
+C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0\refint\Blog.Core.dll
+C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0\Blog.Core.pdb
+C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\obj\Debug\net6.0\ref\Blog.Core.dll

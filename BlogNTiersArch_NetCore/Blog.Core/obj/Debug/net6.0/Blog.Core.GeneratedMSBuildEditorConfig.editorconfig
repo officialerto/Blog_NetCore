@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Blog.Core
-build_property.ProjectDir = C:\Users\Ertugrul\source\repos\BlogNTiersArch_NetCore\Blog.Core\
+build_property.ProjectDir = C:\Users\Ertugrul\Documents\GitHub\Blog_NetCore\BlogNTiersArch_NetCore\Blog.Core\

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Entity\\Blog.Entity.csproj": {}
+    "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Entity\\Blog.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj": {
+    "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj",
         "projectName": "Blog.Core",
-        "projectPath": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj",
+        "projectPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj",
         "packagesPath": "C:\\Users\\Ertugrul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Core\\obj\\",
+        "outputPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ertugrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Entity\\Blog.Entity.csproj": {
+    "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Entity\\Blog.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Entity\\Blog.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Entity\\Blog.Entity.csproj",
         "projectName": "Blog.Entity",
-        "projectPath": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Entity\\Blog.Entity.csproj",
+        "projectPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Entity\\Blog.Entity.csproj",
         "packagesPath": "C:\\Users\\Ertugrul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Entity\\obj\\",
+        "outputPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ertugrul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj": {
-                "projectPath": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj"
+              "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj": {
+                "projectPath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Core\\Blog.Core.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SgAkwI3OArgw/FQqvRBGIUOyff8innl0MGqjEadBaAhJo7/bwcWctFBQRRgCieINWRUZVhBSNhTQpezWjKcsdA==",
+  "dgSpecHash": "JKMt0Qmo7WtiLzeECVmH9wvqo3Uz1rGP0qIhwsa+QymrInZEoii7aR925TSkeYglOuXUbbaJuZHFWrZkwnjN9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ertugrul\\source\\repos\\BlogNTiersArch_NetCore\\Blog.Web\\Blog.Web.csproj",
+  "projectFilePath": "C:\\Users\\Ertugrul\\Documents\\GitHub\\Blog_NetCore\\BlogNTiersArch_NetCore\\Blog.Web\\Blog.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ertugrul\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Ertugrul\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
